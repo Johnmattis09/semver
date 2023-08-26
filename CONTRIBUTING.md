@@ -1,4 +1,4 @@
-# Semver Governance Model
+# SemvCODE_OF_CONDUCT.mder Governance Model
 
 The "RFC" (request for comments) process is intended to provide a consistent and controlled path for changes to the SemVer specification, so that all stakeholders can be confident about the direction the spec is evolving in.
 
